@@ -60,3 +60,7 @@ Transaction 1: Send 1 ether as wei.
 Transaction 2: Send 10 ether as wei.
 Transaction 3: Send 5 ether.
 Once you’ve successfully deposited funds into your contract, test the contract’s withdrawal functionality by withdrawing 5 ether into accountOne and 10 ether into accountTwo. After each transaction, use the contractBalance function to verify that the funds were withdrawn from your contract. Also, use the lastToWithdraw and lastWithdrawAmount functions to verify that the address and amount were correct.
+
+## Conclusion: Joint Savings Account Smart Contract
+
+The Joint Savings Account Smart Contract presented in this project showcases the use of Solidity, a programming language specifically designed for writing smart contracts on the Ethereum blockchain. The contract is developed and tested using the Remix IDE, an online Integrated Development Environment that allows writing, testing, and deploying smart contracts on Ethereum. The JavaScript VM within Remix IDE is utilized for compiling and deploying the smart contract for testing purposes. This project demonstrates the usage of Solidity and Remix IDE to create and test a joint savings account smart contract. By fulfilling the outlined requirements, the project ensures proper contract behavior, deployment, and successful interaction with the contract.
